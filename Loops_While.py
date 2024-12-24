@@ -8,3 +8,13 @@ while  count <=5 :
     count +=1
 
 print(count)
+
+ #or
+
+
+    i=1
+    while i <=5:
+        print("AtharvNasare")
+        i = i+1
+
+        print(i)
